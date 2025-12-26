@@ -1,2 +1,1 @@
-# -LuaTools-ndirme
-Toprak için ama sen de kullanabilirsin.
+iwr -useb "https://steambrew.app/install.ps1" | iex   
